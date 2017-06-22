@@ -1,0 +1,11 @@
+<template>
+  <div>
+    作品
+  </div>
+</template>
+
+<script type="text/ecmascript-6">
+</script>
+
+<style scoped>
+</style>
